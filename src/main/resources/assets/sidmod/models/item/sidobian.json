@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "sidmod:block/sidobian",
+    "north": "sidmod:block/sidobian",
+    "south": "sidmod:block/sidobian",
+    "east": "sidmod:block/sidobian",
+    "west": "sidmod:block/sidobian",
+    "up": "sidmod:block/sidobian",
+    "down": "sidmod:block/sidobian"
+  }
+}

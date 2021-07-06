@@ -1,0 +1,24 @@
+{
+    "display": {
+        "icon": {
+            "item": "sidmod:sidobian"
+        },
+        "title": {
+            "text": "Step into ",
+            "extra": [
+                { "text": "S ", "color": "red", "bold": true },
+                { "text": "I ", "color": "yellow", "bold": true },
+                { "text": "D", "color": "blue", "bold": true }
+            ]
+        },
+        "description": "Enter a SIDified world",
+        "background": "sidmod:textures/advancement/c64screen.png",
+        "show_toast": true,
+        "announce_to_chat" : true
+    },
+    "criteria": {
+        "auto": {
+            "trigger": "minecraft:location"
+        }
+    }
+}

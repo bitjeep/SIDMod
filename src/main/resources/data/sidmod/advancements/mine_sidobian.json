@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "sidmod:sidobian"
+        },
+        "title": "SID Age",
+        "description": "Mine SIDobian"
+    },
+    "parent": "sidmod:root",
+    "criteria": {
+        "example": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "sidmod:sidobian"
+                    }
+                ]
+            }
+        }
+    }
+}

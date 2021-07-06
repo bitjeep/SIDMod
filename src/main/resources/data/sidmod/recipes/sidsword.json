@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I",
+    "I",
+    "S"
+  ],
+  "key": {
+    "I": { "item": "sidmod:sidobian" },
+    "S": { "item": "minecraft:stick" }
+  },
+  "result": { "item": "sidmod:sidsword"},
+  "count": 1
+}

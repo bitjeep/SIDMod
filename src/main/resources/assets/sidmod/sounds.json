@@ -1,0 +1,7 @@
+{
+  "welcome_to_sid": {
+    "category": "record",
+    "subtitle": "Another visitor... stay a while... stay forever!",
+    "sounds": [ "sidmod:welcome_to_sid" ]
+  }
+}
